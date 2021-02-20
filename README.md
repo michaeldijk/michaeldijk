@@ -26,7 +26,7 @@ I'm always open to a chat, would love to hear what you think, or work on any gre
 
 ## ⌛️ Currently working on
 
-* mileStone2 - study project, incorporating APIs, [JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), [HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) and probably using the [Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+* mileStone2 - study project, incorporating APIs, ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) and probably using the ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 * Form styler - a uniform framework for styling forms. But, this is currently on a low 🔥 due to work commitments, study commitments besides this project.
 
 ## 🎖 Finished projects
