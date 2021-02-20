@@ -13,8 +13,6 @@ I'm always open to a chat, would love to hear what you think, or work on any gre
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=michaeldijk)
-
 ## 💾 My fav. Software
 
 * <img src="https://simpleicons.org/icons/microsoftword.svg" height="20px" width="20px"> for anything typing related
@@ -32,3 +30,6 @@ I'm always open to a chat, would love to hear what you think, or work on any gre
 ## 🎖 Finished projects
 
 * michaelDijkCom - My personal portfolio site, V1, this was my milestone1 project for my studies
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=michaeldijk&count_private=true&show_icons=true&include_all_commits=true)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=michaeldijk)
