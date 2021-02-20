@@ -15,8 +15,8 @@ I'm always open to a chat, would love to hear what you think, or work on any gre
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=michaeldijk)
 
 ## 💾 My fav. Software
-<img src="https://simpleicons.org/icons/microsoftword.svg" height="30px" width="30px"> - for anything typing related
-<img src="https://simpleicons.org/icons/microsoftexcel.svg" height="30px" width="30px"> - for anything spreadsheet related
-<img src="https://simpleicons.org/icons/visualstudiocode.svg" height="30px" width="30px"> - for anything coding related
-<img src="https://simpleicons.org/icons/salesforce.svg" height="30px" width="30px"> - work related
-<img src="https://simpleicons.org/icons/windowsterminal.svg" height="30px" width="30px"> - (couldn't find PuTTY) but, PuTTY anything terminal related
+- <img src="https://simpleicons.org/icons/microsoftword.svg" height="20px" width="20px"> - for anything typing related
+- <img src="https://simpleicons.org/icons/microsoftexcel.svg" height="20px" width="20px"> - for anything spreadsheet related
+- <img src="https://simpleicons.org/icons/visualstudiocode.svg" height="20px" width="20px"> - for anything coding related
+- <img src="https://simpleicons.org/icons/salesforce.svg" height="20px" width="20px"> - work related
+- <img src="https://simpleicons.org/icons/windowsterminal.svg" height="20px" width="20px"> - (couldn't find PuTTY) but, PuTTY anything terminal related
