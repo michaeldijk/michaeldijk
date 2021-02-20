@@ -31,5 +31,7 @@ I'm always open to a chat, would love to hear what you think, or work on any gre
 
 * michaelDijkCom - My personal portfolio site, V1, this was my milestone1 project for my studies
 
+## 🎖 Some 💕 stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=michaeldijk&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=michaeldijk)
