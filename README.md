@@ -24,12 +24,16 @@ I'm always open to a chat, would love to hear what you think, or work on any gre
 
 ## ⌛️ Currently working on
 
-* mileStone2 - study project, incorporating APIs, ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) and probably using the ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 * Form styler - a uniform framework for styling forms. But, this is currently on a low 🔥 due to work commitments, study commitments besides this project.
+* Two websites, for clients... If you're interested in working together with me, contact me...
+* Progressing to Code Institute's course material, almost near project Milestone #3
 
 ## 🎖 Finished projects
 
 * michaelDijkCom - My personal portfolio site, V1, this was my milestone1 project for my studies
+* [Breaking Bad Me](https://michaeldijk.github.io/breakingbadme/)
+
+
 
 ## 🎖 Some 💕 stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=michaeldijk&count_private=true&show_icons=true&include_all_commits=true)
