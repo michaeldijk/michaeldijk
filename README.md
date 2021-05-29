@@ -29,9 +29,10 @@ I'm always open to a chat, would love to hear what you think, or work on any gre
 
 ## ⌛️ Currently working on
 
-* Form styler - a uniform framework for styling forms. But, this is currently on a low 🔥 due to work commitments, study commitments besides this project.
+* Form styler - a uniform framework for styling forms. But, this is currently on a low 🔥 due to work commitments and study commitments besides this project.
 * Two websites, for clients... If you're interested in working together with me, contact me...
-* Progressing to Code Institute's course material, almost near project Milestone #3
+* Almost completed my second to last project, for CI.
+* Trying to get my CCNA certification from CISCO
 
 ## 🎖 Finished projects
 
